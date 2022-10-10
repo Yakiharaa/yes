@@ -1,0 +1,647 @@
+/*==========  Desktop First  ========== */
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+
+  .header_top {
+    background-color: rgba(24, 45, 51, 0.525);
+    min-height: 70px;
+  }
+
+  .hi {
+    margin-left: 100px;
+  }
+
+  body {
+
+    margin-left: 260px;
+
+  }
+
+  .menu a {
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    padding: 20px 15px;
+  }
+
+
+  form {
+    margin-left: -109px;
+  }
+
+
+
+  .block_2_1 {
+    margin: 0 auto;
+    margin-left: 618px;
+  }
+
+  .block_2_2_inner h3 {
+    margin-top: -589px;
+    margin-left: -160px;
+  }
+
+
+
+  hr {
+
+    width: 145px;
+
+  }
+
+  .anime {
+    padding-top: 20px;
+    padding-left: 10px;
+    margin: 0 auto;
+    width: 600px;
+  }
+
+  .intro h1 {
+    margin-top: -243px;
+    margin-left: 354px;
+  }
+
+  .intro p {
+    margin-top: 20px;
+    margin-left: 329px;
+
+  }
+
+  .a1 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a2 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a3 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a4 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a5 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a6 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a7 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a8 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+  .a9 {
+    padding-top: 20px;
+    width: 160px;
+  }
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+
+  body {
+    margin-left: 200px;
+  }
+
+  .menu a {
+    font-size: 24px;
+    padding: 20px 12px;
+  }
+
+
+
+  form {
+    margin-left: -167px;
+  }
+
+  button {
+    top: -2px;
+  }
+
+  .block_2 {
+    min-height: 1059px;
+  }
+
+
+
+
+  .int hr {
+
+    width: 820px;
+    margin-left: -5px;
+  }
+
+  hr {
+    width: 120px;
+  }
+
+
+
+  .block_2_1 h2 {
+    font-size: 22px;
+  }
+
+
+
+  .anime {
+    padding-top: 4px;
+    padding-left: 83px;
+    margin: 0 auto;
+    width: 529px;
+  }
+
+  .a1 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a2 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a3 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a4 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a5 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a6 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a7 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a8 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .a9 {
+    padding-top: 20px;
+    width: 130px;
+  }
+
+  .block_2_3 {
+
+    min-height: 688px;
+
+
+  }
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  body {
+    background-size: 200%;
+    margin-left: 160px;
+  }
+
+  .block {
+    width: 746px;
+  }
+
+
+
+  .menu a {
+    font-size: 20px;
+    padding: 20px 6px;
+  }
+
+
+
+  input {
+    width: 61%;
+    height: 30px;
+    padding-left: 10px;
+    border: 2px solid #000000;
+    border-radius: 100px;
+    outline: none;
+    background: #fffffe;
+    color: #9E9C9C;
+  }
+
+  button {
+    position: absolute;
+    top: -3px;
+    right: 51px;
+    width: 75px;
+    height: 35px;
+    border: none;
+    background: #007cf0;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .hi {
+    padding-top: 0px;
+    padding-left: 161px;
+  }
+
+  .intro h1 {
+    margin-left: 250px;
+    margin-top: 0px;
+  }
+
+  .intro p {
+    font-size: 20px;
+    margin-left: 200px;
+  }
+
+  .int hr {
+    background-color: rgb(0, 0, 0);
+    margin-top: -1px;
+    margin-left: -2px;
+    width: 716px;
+  }
+
+  .block_2 {
+    width: 736px;
+    min-height: 1275px;
+  }
+
+  .block_2_1 {
+    margin-left: 533px;
+  }
+
+  .block_2_1 h2 {
+    font-size: 16px;
+  }
+
+  .block_2_3 {
+    min-height: 726px;
+  }
+
+  .block_3 {
+    width: 747px;
+  }
+
+  hr {
+    width: 86px;
+  }
+
+  .nav a {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
+    color: #e2dde2;
+  }
+
+  .block_2_2_inner h3 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin-top: -589px;
+    margin-left: -106px;
+  }
+
+  .anime {
+    padding-top: 20px;
+    padding-left: 3px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 448px;
+  }
+
+  .a1 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a2 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a3 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a4 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a5 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a6 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a7 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a8 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+  .a9 {
+    padding-top: 20px;
+    width: 30%;
+  }
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  body {
+    background-size: 310%;
+    margin-left: 58px;
+  }
+
+  .block_2 {
+    width: 630px;
+    min-height: 1200px;
+  }
+
+
+  .menu a {
+    font-size: 25px;
+    padding: 20px 0px;
+    margin-left: 7px;
+  }
+
+  .header_top {
+    width: 651px;
+    min-height: 10px;
+  }
+
+
+  .header_logo {
+    padding-left: 105px;
+  }
+
+  .poisk {
+    margin-left: -39px;
+    padding-top: 3px;
+  }
+
+  .block {
+    width: 632px;
+  }
+
+  .hi {
+    padding-top: 0;
+    padding-left: 0;
+    margin-left: 52px;
+  }
+
+  .intro h1 {
+    margin-left: 142px;
+    margin-top: -1px;
+    font-size: 30px;
+  }
+
+  .intro p {
+    font-size: 25px;
+    margin-left: 74px;
+    margin-top: 19px;
+  }
+
+  .int hr {
+    background-color: rgb(0, 0, 0);
+    margin-top: 16px;
+    margin-left: 20px;
+    width: 572px;
+  }
+
+
+  .block_2_1 {
+    min-height: 460px;
+    margin: 0 auto;
+    margin-left: 453px;
+  }
+
+  .block_2_1 h2 {
+    font-size: 19px;
+}
+
+  hr {
+    width: 71px;
+    margin-top: -10px;
+  }
+
+  .nav a {
+    font-weight: 300;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+  .block_2_2_inner h3 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: -455px;
+    margin-left: -100px;
+    font-size: initial;
+  }
+
+  .anime {
+    width: 319px;
+    padding-top: 0px;
+  }
+
+  .block_2_3 {
+    min-height: 521px;
+}
+
+  .hi img {
+    width: 300px;
+    margin-left: 84px;
+  }
+
+  .block_3 {
+    width: 631px;
+}
+
+  button {
+    position: absolute;
+    top: 2px;
+    right: 71px;
+    width: 68px;
+    height: 25px;
+    border: none;
+    background: #007cf0;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  input {
+    width: 61%;
+    height: 23px;
+    padding-left: 10px;
+    border: 2px solid #000000;
+    border-radius: 100px;
+    outline: none;
+    background: #fffffe;
+    color: #9E9C9C;
+  }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+  body {
+    background-size: 467%;
+    margin-left: 57px;
+  }
+
+  .header_top {
+    width: 323px;
+    min-height: 21px;
+  }
+
+  .menu a {
+    font-size: 11px;
+    padding: 20px 4px;
+  }
+
+  .header_logo {
+    padding-left: 213px;
+    margin-top: -35px;
+  }
+
+  .block {
+    width: 326px;
+    min-height: 50px;
+  }
+
+  input {
+    width: 50%;
+    height: 22px;
+    padding-left: 21px;
+
+  }
+
+  .anime {
+    width: 220px;
+  }
+
+  .poisk {
+    margin-left: -201px;
+    margin-top: -34px;
+  }
+
+  .block_2 {
+    width: 371px;
+    min-height: 827px;
+  }
+
+  .block_2_1 {
+    min-height: 441px;
+    margin: 0 auto;
+    margin-left: 225px;
+    width: 73px;
+  }
+
+  .intro h1 {
+    margin-left: 32px;
+    margin-top: 0px;
+    font-size: 22px;
+  }
+
+  .intro p {
+    font-size: 15px;
+    margin-left: 13px;
+    margin-top: 9px;
+  }
+
+  .int hr {
+    background-color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-left: 8px;
+    width: 279px;
+  }
+
+  .hi {
+    margin-left: 39px;
+  }
+
+  .block_2_1 h2 {
+    font-size: 11px;
+  }
+
+  hr {
+    width: 70px;
+    margin-top: -16px;
+  }
+
+  .nav a {
+    font-weight: 300;
+    line-height: 30px;
+    font-size: 12px;
+  }
+
+  .block_2_2_inner h3 {
+
+    margin-top: -437px;
+    margin-left: -79px;
+  }
+
+  .block_2_3 {
+    min-height: 463px;
+    width: 221px;
+  }
+
+  .block_2 {
+    width: 320px;
+    min-height: 734px;
+  }
+
+  .block_3 {
+    width: 321px;
+  }
+
+  button {
+
+    top: 0px;
+    right: 107px;
+    width: 62px;
+    height: 28px;
+
+  }
+}

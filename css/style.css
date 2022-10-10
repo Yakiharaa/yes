@@ -1,0 +1,293 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-image: url(../img/back.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 150%;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.header_logo a
+{
+  display: block;
+  margin: 0 auto;
+}
+
+.header_logo img
+{
+  margin: 0 auto;
+  width: 400px;
+  display: block;
+}
+
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul a:hover {
+  color: rgba(255, 42, 0, 0.668);
+}
+
+.container {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.header_top {
+  background-color: rgba(24, 45, 51, 0.525);
+  min-height: 70px;
+}
+
+.header_menu {
+  display: flex;
+  justify-content: center;
+}
+
+.menu li {
+  display: inline-block;
+
+}
+
+
+.menu a {
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 300;
+  font-size: 28px;
+  padding: 20px 15px;
+
+
+}
+
+
+.block {
+  background-color: rgb(242, 241, 241);
+  margin: 0 auto;
+  min-height: 60px;
+  width: 870px;
+  border-radius: 50px;
+}
+
+.block_2 {
+  background-color: rgb(227, 217, 217);
+  margin: 0 auto;
+  margin-top: 5px;
+  min-height: 1240px;
+  width: 850px;
+  border-radius: 20px;
+  padding-top: 20px;
+
+}
+
+form {
+  position: relative;
+  width: 400px;
+  margin: 0 auto;
+  transform: translate(200px, 13px);
+}
+
+input {
+  width: 100%;
+  height: 30px;
+  padding-left: 10px;
+  border: 2px solid #000000;
+  border-radius: 100px;
+  outline: none;
+  background: #fffffe;
+  color: #9E9C9C;
+}
+
+button {
+  position: absolute;
+  top: 0px;
+  right: -100px;
+  width: 75px;
+  height: 35px;
+  border: none;
+  background: #007cf0;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #ffffff;
+
+}
+
+.poisk {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.hi {
+  padding-top: 0px;
+  padding-left: 30px;
+
+}
+.hi img {
+
+  width: 200px;
+}
+
+.block_2_1 {
+  background-color: #2b2828;
+  min-height: 600px;
+  width: 25%;
+  border-radius: 24px;
+  margin-top: -280px;
+  margin-left: 620px;
+}
+
+.block_2_1 h2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 60px;
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+.intro h1 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  margin-top: -250px;
+  margin-left: 300px;
+}
+
+.intro p {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 24px;
+  margin-top: 20px;
+  margin-left: 250px;
+
+}
+
+.nav a {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 40px;
+  display: flex;
+  justify-content: center;
+  color: #e2dde2;
+}
+
+hr {
+  border: none;
+  /* Убираем границу */
+  background-color: rgb(241, 239, 239);
+  /* Цвет линии */
+  height: 1px;
+  /* Толщина линии */
+  ;
+  width: 200px;
+  margin-top: 0px;
+}
+
+.nav3 hr {
+
+  margin-top: 10px;
+
+}
+
+.int hr {
+  background-color: rgb(0, 0, 0);
+  /* Цвет линии */
+  margin-top: 70px;
+  margin-left: 20px;
+  height: 2px;
+  /* Толщина линии */
+  ;
+  width: 580px;
+
+}
+
+.block_2_2_inner h3 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  margin-top: -310px;
+  margin-left: -160px;
+}
+
+.block_2_3 {
+  background-color: #2b2828;
+  min-height: 870px;
+  width: 74%;
+  border-radius: 24px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.anime {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.a1 {
+  font-size: 1;
+}
+
+.a2 {
+  font-size: 1;
+}
+
+.a3 {
+  font-size: 1;
+}
+
+.a4 {
+  margin-top: 20px;
+}
+
+.a5 {
+  margin-top: 20px;
+}
+
+.a6 {
+  margin-top: 20px;
+}
+
+.a7 {
+  margin-top: 20px;
+}
+
+.a8 {
+  margin-top: 20px;
+}
+
+.a9 {
+  margin-top: 20px;
+}
+
+.block_3 {
+  background-color: rgb(242, 241, 241);
+  margin: 0 auto;
+  margin-top: 10px;
+  min-height: 60px;
+  width: 900px;
+  border-radius: 20px;
+}
